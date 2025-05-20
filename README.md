@@ -66,9 +66,3 @@ Key analyses performed:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/world-population-analysis.git
-   cd world-population-analysis
